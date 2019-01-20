@@ -29,42 +29,42 @@ for cloudTypesName in CloudTypesList:
     imageDir = image_path + '/' + cloud_type
 
     # flicker crawing
-    flickr_crawler = FlickrImageCrawler(Flickr_API_Key, parser_threads=4, downloader_threads=4,
+    flickr_crawler = FlickrImageCrawler(Flickr_API_Key, parser_threads=2, downloader_threads=4,
                                         storage={'root_dir': imageDir})
 
     flickr_crawler.crawl(
         text=cloud_type,
         max_num=1000,
         tags=cloud_type,
-        min_upload_date=date(2005,1,1))
+        min_upload_date=date(2009,1,1))
 
     # google crawing
-    google_crawler = GoogleImageCrawler(parser_threads=4, downloader_threads=4,
+    google_crawler = GoogleImageCrawler(parser_threads=2, downloader_threads=4,
                                         storage={'root_dir': imageDir})
     # google_crawler.crawl(keyword=cloud_type, max_num=1000)
 
     google_crawler.crawl(
         keyword=cloud_type,
-        filters={'date': ((2018, 1, 1), (2019, 1, 1))},
+        filters={'date': ((2010, 1, 1), (2019, 1, 1))},
         max_num=1000,
         file_idx_offset=0)
     google_crawler.crawl(
         keyword=cloud_type,
-        filters={'date': ((2000, 1, 1), (2017, 12, 31))},
+        filters={'date': ((2003, 1, 1), (2009, 12, 31))},
         max_num=1000,
         file_idx_offset='auto')
 
     # bing crawing
-    bing_crawler = BingImageCrawler(parser_threads=4, downloader_threads=4,
+    bing_crawler = BingImageCrawler(parser_threads=2, downloader_threads=4,
                                     storage={'root_dir': imageDir})
     bing_crawler.crawl(
         keyword=cloud_type,
-        filters={'date': ((2018, 1, 1), (2019, 1, 1))},
+        filters={'date': ((2012, 1, 1), (2019, 1, 1))},
         max_num=1000,
         file_idx_offset='auto')
     bing_crawler.crawl(
         keyword=cloud_type,
-        filters={'date': ((2000, 1, 1), (2017, 12, 31))},
+        filters={'date': ((2003, 1, 1), (2011, 12, 31))},
         max_num=1000,
         file_idx_offset='auto')
 

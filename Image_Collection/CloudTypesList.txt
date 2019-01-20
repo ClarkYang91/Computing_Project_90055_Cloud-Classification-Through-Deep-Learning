@@ -1,10 +1,10 @@
 cirrocumulus
 cirrostratus
-cirrus
+cirrus cloud
 cumulonimbus
 altocumulus
 altostratus
 cumulus
 nimbostratus
 stratocumulus
-stratus
+stratus cloud
