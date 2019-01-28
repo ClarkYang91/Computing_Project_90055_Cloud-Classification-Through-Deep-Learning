@@ -5,9 +5,7 @@ Purpose	: Collect cloud images from the Google, Bing and Flickr.
 
 """
 
-import os
 import sys
-from datetime import date
 from icrawler.builtin import GoogleImageCrawler, BingImageCrawler, FlickrImageCrawler
 
 # the fold that you want to store these images
@@ -26,7 +24,8 @@ CloudTypesList = open('CloudTypesList.txt', 'r')
 
 for cloudTypesName in CloudTypesList:
     cloud_type = cloudTypesName.strip('\n')
-    imageDir = image_path + '/' + cloud_type
+    imageDir = image_path + "\\" + cloud_type
+    print("imageDir--------------" + imageDir)
 
     # flicker crawing
     flickr_crawler = FlickrImageCrawler(Flickr_API_Key, parser_threads=2, downloader_threads=4, storage={'root_dir': imageDir})

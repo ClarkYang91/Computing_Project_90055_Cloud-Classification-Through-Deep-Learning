@@ -1,0 +1,8 @@
+altocumulus		369
+cirrus			55
+cumulonimbus	24
+cumulus			258
+lenticularis	26
+stratocumulus	27
+
+the numbers is the bounding box

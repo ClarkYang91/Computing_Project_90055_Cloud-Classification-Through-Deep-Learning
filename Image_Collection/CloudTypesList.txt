@@ -7,4 +7,5 @@ altostratus
 cumulus
 nimbostratus
 stratocumulus
+lenticularis
 stratus cloud

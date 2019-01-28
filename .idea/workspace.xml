@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f30b1ae-5056-4966-9916-a8de58b1a317" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Image_Processing/ResizeImage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Collection/SingleCloud.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_Processing/RenameImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Processing/RenameImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Collection/BruteForceCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Collection/BruteForceCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Collection/CloudsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Collection/CloudsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Processing/ResizeImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Processing/ResizeImage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,26 +23,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="RenameImage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_Processing/RenameImage.py">
+      <file leaf-file-name="SingleCloudCollection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="864">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResizeImage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_Processing/ResizeImage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding>
-                <element signature="e#85#94#0" expanded="true" />
+                <element signature="e#105#115#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResizeImage.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Image_Processing/ResizeImage.py">
+      <file leaf-file-name="RenameImage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_Processing/RenameImage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-              <folding>
-                <element signature="e#105#115#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="621">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloudTypesList.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleCloud.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloud.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleCloudTypeList.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -81,12 +119,16 @@
         <option value="$PROJECT_DIR$/Image_Collection/New" />
         <option value="$PROJECT_DIR$/Image_Collection/New.txt" />
         <option value="$PROJECT_DIR$/Image_Collection/ImageTest.py" />
-        <option value="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" />
-        <option value="$PROJECT_DIR$/Image_Collection/CloudsCollection.py" />
         <option value="$PROJECT_DIR$/Image_Collection/demo.py" />
         <option value="$PROJECT_DIR$/Image_Collection/CloudsCollection2.py" />
         <option value="$PROJECT_DIR$/Image_Processing/RenameImage.py" />
+        <option value="$PROJECT_DIR$/Image_Collection/CloudsCollection.py" />
+        <option value="$PROJECT_DIR$/Image_Collection/BruteForceCollection.py" />
+        <option value="$PROJECT_DIR$/Image_Collection/SingleCloud.txt" />
+        <option value="$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py" />
         <option value="$PROJECT_DIR$/Image_Processing/ResizeImage.py" />
+        <option value="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" />
+        <option value="$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt" />
       </list>
     </option>
   </component>
@@ -142,7 +184,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ResizeImage">
+  <component name="RunManager" selected="Python.RenameImage">
+    <configuration name="BruteForceCollection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Computing_Project_90055" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_Collection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_Collection/BruteForceCollection.py" />
+      <option name="PARAMETERS" value="d:\cloud\dataset\sampletest" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="CloudsCollection" type="PythonConfigurationType" factoryName="Python">
       <module name="Computing_Project_90055" />
       <option name="INTERPRETER_OPTIONS" value="-v" />
@@ -161,24 +221,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="CloudsCollection2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Computing_Project_90055" />
-      <option name="INTERPRETER_OPTIONS" value="-v" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_Collection" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Pytharm\Computing_Project_90055\Image_Collection\BruteForceCollection.py" />
-      <option name="PARAMETERS" value="d:\Cloud\dataset\simple" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="RenameImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Computing_Project_90055" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,7 +234,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_Processing/RenameImage.py" />
-      <option name="PARAMETERS" value="D:\Cloud\dataset\test" />
+      <option name="PARAMETERS" value="D:\Cloud\dataset\singledemo" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -210,7 +252,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_Processing/ResizeImage.py" />
-      <option name="PARAMETERS" value="D:\Cloud\dataset\test" />
+      <option name="PARAMETERS" value="D:\Cloud\dataset\resized" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="SingleCloudCollection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Computing_Project_90055" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_Collection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py" />
+      <option name="PARAMETERS" value="d:\Cloud\dataset\singledemo2" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -233,39 +293,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="filesystem" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Computing_Project_90055" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/icrawler/storage" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/icrawler/storage/filesystem.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.CloudsCollection" />
-      <item itemvalue="Python.CloudsCollection2" />
-      <item itemvalue="Python.filesystem" />
       <item itemvalue="Python.demo" />
       <item itemvalue="Python.RenameImage" />
       <item itemvalue="Python.ResizeImage" />
+      <item itemvalue="Python.SingleCloudCollection" />
+      <item itemvalue="Python.BruteForceCollection" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ResizeImage" />
         <item itemvalue="Python.RenameImage" />
+        <item itemvalue="Python.ResizeImage" />
+        <item itemvalue="Python.SingleCloudCollection" />
+        <item itemvalue="Python.BruteForceCollection" />
         <item itemvalue="Python.demo" />
-        <item itemvalue="Python.CloudsCollection2" />
-        <item itemvalue="Python.filesystem" />
       </list>
     </recent_temporary>
   </component>
@@ -284,20 +326,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49900597" visible="true" weight="0.1783029" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49900597" visible="true" weight="0.1944146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.32706767" side_tool="true" weight="0.3993174" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7395274" visible="true" weight="0.36746302" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989259" weight="0.15585893" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49677765" weight="0.32992035" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7395274" weight="0.34243459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49785176" weight="0.39135382" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6729323" weight="0.3993174" />
       <window_info id="Favorites" order="2" sideWeight="0.500994" side_tool="true" weight="0.18045112" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6729323" weight="0.3993174" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -311,23 +352,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudsCollection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/BruteForceCollection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#118#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -349,9 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding>
-            <element signature="e#85#94#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -373,9 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <element signature="e#118#127#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -383,9 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding>
-            <element signature="e#85#94#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,9 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="e#118#127#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -452,9 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="e#118#127#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,9 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#118#127#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,13 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/icrawler/storage/filesystem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
@@ -553,34 +552,10 @@
     <entry file="file://$PROJECT_DIR$/Image_Collection/NoiseClouds.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudsCollection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/BruteForceCollection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#118#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/CourseSoftware/Anaconda3/envs/tensorflowgpu/Lib/shutil.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="541" selection-start-line="541" selection-end-line="541" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -591,9 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Image_Collection/ImageTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -601,23 +573,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Processing/RenameImage.py">
+    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#85#94#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudsCollection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/BruteForceCollection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Image_Processing/ResizeImage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        <state relative-caret-position="513">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
             <element signature="e#105#115#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Processing/RenameImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloud.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
