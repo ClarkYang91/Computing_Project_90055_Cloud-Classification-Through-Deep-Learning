@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f30b1ae-5056-4966-9916-a8de58b1a317" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generate_tfrecord.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="generate_tfrecord.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generate_Data/generate_tfrecord.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
-              <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloudTypesList.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -102,10 +111,10 @@
         <option value="$PROJECT_DIR$/Image_Collection/SingleCloud.txt" />
         <option value="$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py" />
         <option value="$PROJECT_DIR$/Image_Processing/ResizeImage.py" />
-        <option value="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" />
         <option value="$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt" />
         <option value="$PROJECT_DIR$/Generate_Data/generate_tfrecord.py" />
         <option value="$PROJECT_DIR$/Generate_Data/xml_to_csv.py" />
+        <option value="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" />
       </list>
     </option>
   </component>
@@ -120,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,10 +151,15 @@
               <item name="Computing_Project_90055" type="462c0819:PsiDirectoryNode" />
               <item name="Image_Processing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Computing_Project_90055" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,7 +323,7 @@
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49900597" visible="true" weight="0.20247047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49900597" visible="true" weight="0.20515575" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -539,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -621,7 +627,14 @@
     <entry file="file://$PROJECT_DIR$/Generate_Data/generate_tfrecord.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
