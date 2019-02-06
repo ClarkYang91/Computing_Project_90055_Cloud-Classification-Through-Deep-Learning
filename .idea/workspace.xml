@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f30b1ae-5056-4966-9916-a8de58b1a317" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Image_Collection/SingleCloud.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_Collection/BruteForceCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Collection/BruteForceCollection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_Collection/CloudsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Collection/CloudsCollection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_Processing/ResizeImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Processing/ResizeImage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SingleCloudCollection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ResizeImage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Image_Processing/ResizeImage.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,35 +31,26 @@
       <file leaf-file-name="RenameImage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Image_Processing/RenameImage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="594">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CloudTypesList.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
+      <file leaf-file-name="generate_tfrecord.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generate_Data/generate_tfrecord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="594">
+              <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleCloud.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloud.txt">
+      <file leaf-file-name="xml_to_csv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generate_Data/xml_to_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleCloudTypeList.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -129,6 +104,8 @@
         <option value="$PROJECT_DIR$/Image_Processing/ResizeImage.py" />
         <option value="$PROJECT_DIR$/Image_Collection/CloudTypesList.txt" />
         <option value="$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt" />
+        <option value="$PROJECT_DIR$/Generate_Data/generate_tfrecord.py" />
+        <option value="$PROJECT_DIR$/Generate_Data/xml_to_csv.py" />
       </list>
     </option>
   </component>
@@ -143,12 +120,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Computing_Project_90055" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computing_Project_90055" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computing_Project_90055" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computing_Project_90055" type="462c0819:PsiDirectoryNode" />
+              <item name="Generate_Data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computing_Project_90055" type="b2602c69:ProjectViewProjectNode" />
@@ -164,7 +147,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,8 +308,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49900597" visible="true" weight="0.1944146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49900597" visible="true" weight="0.20247047" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -352,20 +335,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -549,37 +518,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Image_Collection/demo.py" />
-    <entry file="file://$PROJECT_DIR$/Image_Collection/NoiseClouds.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://D:/CourseSoftware/Anaconda3/envs/tensorflowgpu/Lib/shutil.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="541" selection-start-line="541" selection-end-line="541" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -597,10 +539,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/ImageTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/NoiseClouds.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloud.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudCollection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
+        <state relative-caret-position="795">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -616,29 +606,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Image_Processing/RenameImage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="594">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/CloudTypesList.txt">
+    <entry file="file://$PROJECT_DIR$/Generate_Data/xml_to_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloud.txt">
+    <entry file="file://$PROJECT_DIR$/Generate_Data/generate_tfrecord.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Collection/SingleCloudTypeList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="594">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
         </state>
       </provider>
     </entry>
