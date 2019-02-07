@@ -30,18 +30,26 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    if row_label == 'altocumulus':
+    if row_label == 'cirrocumulus':
         return 1
-    elif row_label == 'cirrus':
+    elif row_label == 'cirrostratus':
         return 2
-    elif row_label == 'cumulonimbus':
+    elif row_label == 'cirrus':
         return 3
-    elif row_label == 'cumulus':
+    elif row_label == 'cumulonimbus':
         return 4
-    elif row_label == 'lenticularis':
+    elif row_label == 'altocumulus':
         return 5
-    elif row_label == 'stratocumulus':
+    elif row_label == 'altostratus':
         return 6
+    elif row_label == 'cumulus':
+        return 7
+    elif row_label == 'nimbostratus':
+        return 8
+    elif row_label == 'stratocumulus':
+        return 9
+    elif row_label == 'lenticularis':
+        return 10
     else:
         None
 
