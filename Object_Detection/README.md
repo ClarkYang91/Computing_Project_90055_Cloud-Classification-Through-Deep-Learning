@@ -15,10 +15,10 @@ Please following the steps:
 3. Make sure you have successful export the model and save it in the inference_graph directory
 4. If you use image detection, please turn to 5; if you use a real-time detection, please turn to 6
 
-5. Please add the image path at line 34. Such as IMAGE_NAME = ['demo1.jpg'] 
-   The example means demo1.jpg in the current folder, you can enter the absolute path of a image
-   Then please set the class label at line 43, and change the number of classes you want to detect at line 50
-   Finally, you can run the program through IDLE
+5. Please add the image path at line 34. Such as IMAGE_NAME = ['demo1.jpg'] &nbsp;
+   The example means demo1.jpg in the current folder, you can enter the absolute path of a image &nbsp;
+   Then please set the class label at line 43, and change the number of classes you want to detect at line 50 &nbsp;
+   Finally, you can run the program through IDLE &nbsp;
 
 6. Please set the class label at line 45m, then edit the class number at line 48
    Finally, you can run the program through IDLE, the program will use the web camera to deteation cloud.
