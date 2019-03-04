@@ -17,7 +17,7 @@ The cloud typs as follow:
 - lenticularis
 
 <p align="center">
-  <img src="g3doc/img/tf-od-api-logo.png" width=140 height=195>
+  <img src="Materials/cloud_types.png">
 </p>
 
 ## Project Structure
